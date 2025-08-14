@@ -1,0 +1,7 @@
+/*
+!.gitignore
+!.gitattributes
+!/UnityMathLab/
+/UnityMathLab/*
+!/UnityMathLab/Assets/**
+!/UnityMathLab/Packages/**
